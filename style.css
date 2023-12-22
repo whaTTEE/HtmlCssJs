@@ -43,13 +43,13 @@ nav {
 
 #tabMenu {
     float:left;
-    width: 800px;
+    width: 600px;
     height: 100%;
     background-color: violet;
 }
 #links {
     float: right;
-    width: 400px;
+    width: 600px;
     height: 100%;
     background-color: skyblue;
 }
