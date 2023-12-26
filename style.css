@@ -302,3 +302,8 @@ p {
     font-size: 14px;
     color: #aaa;
 }
+
+#tab1:checked~#notice,
+#tab2:checked~#gallery {
+    display: block;
+}
